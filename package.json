@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS/issues"
   },
-  "homepage": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS#readme"
+  "homepage": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS#readme",
+  "dependencies": {
+    "next": "^4.1.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
 }
