@@ -1,0 +1,28 @@
+{
+  "name": "fcm-pwa-next-js",
+  "version": "1.0.0",
+  "description": "push notification in pwa using firebase and next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safeimuslim/FCM-PWA-NEXT-JS.git"
+  },
+  "keywords": [
+    "push",
+    "notification",
+    "pwa",
+    "firebase",
+    "fcm",
+    "next",
+    "js"
+  ],
+  "author": "Safei Muslim <safeydev@gmail.com> (http://www.safeimuslim.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS/issues"
+  },
+  "homepage": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS#readme"
+}
