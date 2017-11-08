@@ -1,10 +1,4 @@
 /**
- * Safei Muslim
- * Yogyakarta , 10 Oktober 2017
- * PT Skyshi Digital Indonesa
- */
-
-/**
  * import depedencies
  */
 import * as firebase from 'firebase'
