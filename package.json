@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/safeimuslim/FCM-PWA-NEXT-JS#readme",
   "dependencies": {
+    "firebase": "^4.6.1",
     "localforage": "^1.5.3",
     "next": "^4.1.4",
     "react": "^16.0.0",
